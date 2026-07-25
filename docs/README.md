@@ -36,7 +36,7 @@ HyCheck/
 
 ##  Installation & Démo
 
-### 1. Lancer le backend
+### Lancer le backend & le frontend
 ```bash
 cd backend
 pip install -r requirements.txt
