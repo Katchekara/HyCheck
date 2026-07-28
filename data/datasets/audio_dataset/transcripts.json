@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "filename": "fake_news_audio.mp3",
+    "transcription": "Le vaccin cause des puces électroniques.",
+    "label": "douteux"
+  },
+  {
+    "id": 2,
+    "filename": "neutral_audio.wav",
+    "transcription": "La météo annonce de fortes pluies demain.",
+    "label": "fiable"
+  },
+  {
+    "id": 3,
+    "filename": "interview_audio.mp3",
+    "transcription": "Le café contient de la caféine qui stimule le système nerveux.",
+    "label": "fiable"
+  },
+  {
+    "id": 4,
+    "filename": "conspiracy_audio.mp3",
+    "transcription": "Les antennes 5G diffusent des ondes qui provoquent des maladies.",
+    "label": "douteux"
+  }
+]

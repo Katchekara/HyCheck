@@ -1,0 +1,6 @@
+id,filename,dominant_emotion,label
+1,angry_face.jpg,angry,douteux
+2,happy_face.png,happy,fiable
+3,neutral_face.jpg,neutral,fiable
+4,sad_face.jpg,sad,douteux
+5,surprised_face.png,surprise,fiable

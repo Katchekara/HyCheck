@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+spacy
+nltk
+openai-whisper
+SpeechRecognition
+pyaudio
+opencv-python
+deepface
