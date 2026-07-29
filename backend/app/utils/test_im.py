@@ -12,3 +12,4 @@ def load_image_dataset(path="data/datasets/image_dataset/emotions_labels.csv"):
                 "label": row["label"]
             })
     return dataset
+

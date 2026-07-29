@@ -1,7 +1,7 @@
 import spacy
 import nltk
 from nltk.tokenize import word_tokenize
-from backend.app.models.ml_models import nlp
+from app.models.ml_models import nlp
 
 #  Téléchargement automatique des ressources NLTK si elles ne sont pas déjà présentes
 try:

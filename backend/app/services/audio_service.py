@@ -1,8 +1,8 @@
 import whisper
 import asyncio
 import os
-from backend.app.models.ml_models import whisper_model
-from backend.app.services.nlp_service import analyze_text
+from app.models.ml_models import whisper_model
+from app.services.nlp_service import analyze_text
 
 model = whisper.load_model("base")
 

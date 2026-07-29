@@ -1,6 +1,6 @@
 from fastapi import APIRouter, UploadFile, File, HTTPException
-from backend.app.services.audio_service import transcribe_audio
-from backend.app.utils.file_utils import validate_file_extension, validate_file_size, save_temp_file
+from app.services.audio_service import transcribe_audio
+from app.utils.file_utils import validate_file_extension, validate_file_size, save_temp_file
 
 router = APIRouter()
 
