@@ -1,0 +1,5 @@
+id,filename,duration_seconds,language,label
+1,fake_news_audio.mp3,12,fr,douteux
+2,neutral_audio.wav,8,fr,fiable
+3,interview_audio.mp3,25,fr,fiable
+4,conspiracy_audio.mp3,15,fr,douteux
