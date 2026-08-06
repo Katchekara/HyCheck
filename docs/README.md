@@ -1,3 +1,4 @@
+
 # HyCheck 
 
 HyCheck est une plateforme hybride de **détection multimodale** (texte, image, voix) qui combine **IA** et **fact-checking humain** pour lutter contre la désinformation.  
