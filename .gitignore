@@ -1,7 +1,7 @@
 @"
+.venv/
 backend/venv/
-venv/
-pycache/
+__pycache__/
 *.pyc
 .env
 "@ | Out-File -FilePath .gitignore -Encoding utf8
