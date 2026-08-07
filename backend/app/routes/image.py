@@ -19,4 +19,4 @@ async def analyze_image_route(file: UploadFile = File(...)):
 
     # Analyse
     result = analyze_image(image_path)
-    return result
+    return {"filename": file.filename, "analysis": result}

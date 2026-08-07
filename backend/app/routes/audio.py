@@ -19,4 +19,4 @@ async def transcribe_audio_route(file: UploadFile = File(...)):
 
     # Transcription + analyse
     result = transcribe_audio(audio_path)
-    return result
+    return {"filename": file.filename, "analysis": result}
