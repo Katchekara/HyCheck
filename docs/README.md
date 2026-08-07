@@ -42,6 +42,10 @@ HyCheck/
 cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
-cd frontend
+
+### cd frontend
 npm install
 npm run dev
+
+## Lancer automatiquement (Windows)
+double clique sur le fichier start.bat
